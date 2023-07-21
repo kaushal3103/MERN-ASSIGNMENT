@@ -10,3 +10,5 @@ write command "cd backend" in one terminal
 write command "cd frontend" in other.
 In the backend terminal write command nodemon start. This will setup the server on.
 In the frontend terminal write command npm start. This will setup the frontend part on google chrome or default browser.
+The frontend has been uploaded to Netlify Platform and Backend has been uploaded to Render.com platform.
+Website Link -> https://mernappassignment.netlify.app/
